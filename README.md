@@ -9,6 +9,8 @@ You can download the dataset from [here](https://www.kaggle.com/datasets/jrobisc
 
 You will also need to obtain a Fireworks API key from [here](https://fireworks.ai/)
 
+ChatGPT was also used to help explain and write code. It is a requirement to have human intervention when using ChatGPT
+
 Below is the directory structure of the homework:
 - `/notebooks`
   - `01-semantic-search.ipynb`
@@ -46,5 +48,4 @@ To install the required Python packages for this project, you can use `pip` alon
 
 ```bash
 pip install -r requirements.txt
-
 
