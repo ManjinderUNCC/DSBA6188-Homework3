@@ -13,7 +13,7 @@ ChatGPT was also used to help explain and write code. It is a requirement to hav
 
 Ensure you have a good GPU.
 
-## Case Writeup [here](https://github.com/ManjinderUNCC/DSBA6188-Homework3/blob/main/Homework3Writeup-DSBA6118%20(1).pdf)
+### Case Writeup [here](https://github.com/ManjinderUNCC/DSBA6188-Homework3/blob/main/Homework3Writeup-DSBA6118%20(1).pdf)
 
 Below is the directory structure of the homework:
 - `/notebooks`
