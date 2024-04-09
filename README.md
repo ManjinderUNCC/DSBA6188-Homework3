@@ -7,6 +7,8 @@ The movie dataset used in this project can be found on Kaggle. It contains a col
 
 You can download the dataset from [here](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download).
 
+You will also need to obtain a Fireworks API key from [here](https://fireworks.ai/)
+
 Below is the directory structure of the homework:
 - `/notebooks`
   - `01-semantic-search.ipynb`
