@@ -1,0 +1,8 @@
+chromadb==0.4.24
+tqdm==4.66.2
+pandas==2.0.3
+sentence-transformers==2.6.1
+colab-env==0.2.0
+datasets==2.18.0
+torch==2.2.1+cu121
+sentencepiece==0.1.99
