@@ -11,6 +11,8 @@ You will also need to obtain a Fireworks API key from [here](https://fireworks.a
 
 ChatGPT was also used to help explain and write code. It is a requirement to have human intervention when using ChatGPT
 
+Ensure you have a good GPU
+
 Below is the directory structure of the homework:
 - `/notebooks`
   - `01-semantic-search.ipynb`
