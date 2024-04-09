@@ -17,6 +17,7 @@ Below is the directory structure of the homework:
 - `README.md`
 - `.gitignore`
 - `requirements.txt`
+- `Homework3Writeup-DSBA6188.txt`
 
 ### Package Versions
 
