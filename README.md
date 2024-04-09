@@ -3,15 +3,15 @@
 ## The goal of this homework assignment is to create a prototype (POC/MVP) search tool that will help users find old 1920s movies. The movie dataset will contain 1,000 movies. 
 
 ### Movie Dataset
-The movie dataset used in this project can be found on Kaggle. It contains a collection of movie plots from Wikipedia.
+-The movie dataset used in this project can be found on Kaggle. It contains a collection of movie plots from Wikipedia.
 
-You can download the dataset from [here](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download).
+-You can download the dataset from [here](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download).
 
-You will also need to obtain a Fireworks API key from [here](https://fireworks.ai/)
+-You will also need to obtain a Fireworks API key from [here](https://fireworks.ai/)
 
-ChatGPT was also used to help explain and write code. It is a requirement to have human intervention when using ChatGPT.
+-ChatGPT was also used to help explain and write code. It is a requirement to have human intervention when using ChatGPT.
 
-Ensure you have a good GPU.
+-Ensure you have a good GPU.
 
 ### Case Writeup [here](https://github.com/ManjinderUNCC/DSBA6188-Homework3/blob/main/Homework3Writeup-DSBA6118%20(1).pdf)
 
